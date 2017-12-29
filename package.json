@@ -1,0 +1,19 @@
+{
+  "name": "halloweennode",
+  "version": "1.0.0",
+  "description": "Password Saving by Halloween",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MRB",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.4.3",
+    "cors": "*",
+    "express": "4.6.1",
+    "method-override": "2.1.1",
+    "mongoose": "^4.13.3",
+    "morgan": "1.1.1"
+  }
+}
